@@ -1,4 +1,4 @@
 # pkg
 Collaboration on description of personal knowledge graphs (PKG)
 
-[semantic layers](sem_layers.png)
+![semantic layers](https://raw.githubusercontent.com/ceteri/pkg/main/sem_layers.png)
