@@ -93,7 +93,7 @@ Publishing may be a matter of:
   * search and query capabilities
   * API access
 
-## Misc. Notes
+### Misc. Notes
 
 Recognizing how the marketing departments of technology vendors tend to promise "all things to all people" in reality few if any commercial offerings provide support across the entire stack of these layers.
 
@@ -103,3 +103,23 @@ Effective practices in industry tend to:
   * integrate multiple libraries, tools, and services to provide coverage across the stack, depending on the needs of their use cases
 
 Notably, the *graph database* vendors tend to focus on **Layer 1** and the *query* aspects (mixed into either in **Layer 8** or **Layer 9**) of search, while not providing especially effective solutions for the other layers.
+
+---
+
+## What are the PKG group’s requirements/needs from a tool stack?
+
+  * Asynchronous project chat
+  * Shared document for note taking
+  * Creating semantic markups
+  * Shared storage
+  * Versioning
+  * Publishing on the web
+  * Knowledge graph
+
+## Current Use Cases for the Group
+
+  * Personal knowledge collection
+  * Sharing links to add context to group discussion
+  * Topical conversation on KG related subject
+  * Collaborating on specific project
+  * Publishing tutorials
