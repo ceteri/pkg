@@ -108,10 +108,8 @@ Notably, the *graph database* vendors tend to focus on **Layer 1** and the *quer
 
 ## What are the PKG group’s requirements/needs from a tool stack?
 
-  * Asynchronous project chat
-  * Shared document for note taking
-  * Creating semantic markups
-  * Shared storage
-  * Versioning
-  * Publishing on the web
-  * Knowledge graph
+Check the [Requirements section](https://github.com/ceteri/pkg/tree/main/Requirements)
+
+## Current Use Cases for the Group
+
+Check the [Use Cases section](https://github.com/ceteri/pkg/tree/main/Use%20Cases)
