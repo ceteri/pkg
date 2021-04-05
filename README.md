@@ -115,11 +115,3 @@ Notably, the *graph database* vendors tend to focus on **Layer 1** and the *quer
   * Versioning
   * Publishing on the web
   * Knowledge graph
-
-## Current Use Cases for the Group
-
-  * Personal knowledge collection
-  * Sharing links to add context to group discussion
-  * Topical conversation on KG related subject
-  * Collaborating on specific project
-  * Publishing tutorials
